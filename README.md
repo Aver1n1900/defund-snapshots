@@ -19,7 +19,7 @@ Snapshot installation May 6</br>
 `wget dragonapi.space/addrbook.json && mv addrbook.json $HOME/.defund/config/`</br>
 Стартуем, я сказала стартуем:
 `sudo systemctl start defund && sudo journalctl -u defund.service -f -o cat`</br>
-Открываем директорию для удаления загруженного архива (free storage)</br>
+Открываем директорию для удаления загруженного архива </br>
 `cd $HOME/.defund && rm -rf data_06052022.tar`</br>
 
 Завадайте вопросы в дискорд и телеге: **Аndrey And#3361** *@obnimai*
