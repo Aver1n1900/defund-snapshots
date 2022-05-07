@@ -23,3 +23,4 @@ Snapshot installation May 6</br>
 `cd $HOME/.defund && rm -rf data_06052022.tar`</br>
 
 Завадайте вопросы в дискорд и телеге: **Аndrey And#3361** *@obnimai*
+Спасибо ему icodragon#4560 (дискорд) 
